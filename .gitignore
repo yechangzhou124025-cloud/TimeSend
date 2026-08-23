@@ -1,0 +1,19 @@
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.spec.bak
+
+# Local design/prompt notes; not part of the public distribution.
+Codex 项目指令*.md
