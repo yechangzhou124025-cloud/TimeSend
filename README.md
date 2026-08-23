@@ -173,7 +173,7 @@ git remote add origin https://github.com/<你的用户名>/TimeSend.git
 git push -u origin main
 ```
 
-GitHub Actions 会在 Windows 和 Linux、Python 3.11 和 3.12 上自动执行静态检查与单元测试。建议为稳定版本创建形如 `v1.0.2` 的 tag，并在 GitHub Release 中上传经 Windows 真机验证的 EXE。不要提交未经验证的构建产物。
+GitHub Actions 会在 Windows 和 Linux、Python 3.11 和 3.12 上自动执行静态检查与单元测试。建议为稳定版本创建形如 `v1.0` 的 tag，并在 GitHub Release 中上传经 Windows 真机验证的 EXE。不要提交未经验证的构建产物。
 
 ## 开发测试
 
